@@ -249,3 +249,11 @@ Este archivo registra el avance del proyecto. Cada entrada debe indicar la fecha
 - **Diseño:** base azul, acentos coral/celeste/lavanda/verde/dorado y áreas coloreadas por saque/resto/derecha/revés/red. Colores de jugadores consistentes entre gráfico y tarjetas.
 - **Verificación:** 39 pruebas Python pasan, sintaxis JS válida; Chrome verifica fórmula global/por área, tasas reales, tarjetas, comparación, golpes globales, faltantes y adaptación sin desborde a 390 px. Inspección visual de la página completa. Arnés temporal retirado.
 - **Publicación:** commit eb4d9e8 subido a main, Pages built sin errores; HTML/JS/CSS descargados desde la URL pública y hashes coinciden con la versión local. Fase de datos sin cambios; no hay predicciones nuevas.
+
+
+## 2026-10-08 — 27. Dos vistas, verde original y ranking explícito
+
+- **Realizado:** botones Comparación/Vecinos en un contenedor; una vista visible por vez, selección conservada y botón Comparar de cada vecino abre la comparación. Navegación por teclado y estados accesibles.
+- **Diseño:** paleta verde original recuperada, contraste celeste y colores constantes por jugador. Ranking ATP del 30/12/2024 visible también en móvil; estadísticas 2022–2024 diferenciadas.
+- **Verificación:** 39 pruebas Python, sintaxis JS, inspección visual y Chrome: pestañas, teclado, selección, comparación desde vecino, golpes globales y móvil de 390 px sin desborde. Arnés temporal retirado.
+- **Publicación:** preparada para GitHub Pages; pendiente verificar el build público. Datos y fase 0 sin cambios.
