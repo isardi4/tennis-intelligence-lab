@@ -51,7 +51,7 @@ Primero guardaremos el resultado inicial sobre 2025. Luego podremos aprender de 
 
 **Qué significa lo que ya hicimos:** hay dos bases descargadas y comprobaciones oficiales puntuales. Todavía no tenemos tres bases completas e independientes, ni una base lista para entrenar. Las pruebas automáticas verifican controles concretos; no garantizan que todos los datos sean correctos.
 
-**Último avance:** tenemos una página para ver y probar el proyecto: [abrir explorador](docs/index.html). Muestra los 350 jugadores, permite buscar, comparar perfiles y explorar vecinos con sus motivos y evidencia. Funciona como HTML local y está preparada para GitHub Pages. No está publicada aún: falta identificar el repositorio destino. Pasaron 39 pruebas Python y las comprobaciones de interacción en Chrome.
+**Último avance:** tenemos una página pública para ver y probar el proyecto: [abrir explorador](https://isardi4.github.io/tennis-intelligence-lab/). Muestra los 350 jugadores, permite buscar, comparar perfiles y explorar vecinos con sus motivos y evidencia. Publicada en GitHub Pages con HTTPS; también funciona como HTML local. Repositorio: [isardi4/tennis-intelligence-lab](https://github.com/isardi4/tennis-intelligence-lab). Pasaron 39 pruebas Python y las comprobaciones de interacción en Chrome.
 
 
 | Comparación, todas las superficies | Comparables en las tres pruebas | Conservan al menos 3 de 5 vecinos en cada prueba |
@@ -173,7 +173,7 @@ Primero guardaremos el resultado inicial sobre 2025. Luego podremos aprender de 
 
 - [x] Crear un explorador HTML del piloto con búsqueda, comparación y similitudes.
 - [x] Preparar página estática y snapshot con atribución para GitHub Pages.
-- [ ] Publicar en el repositorio GitHub destino.
+- [x] Crear repositorio propio, subir el proyecto y publicar en GitHub Pages con HTTPS.
 - [ ] Mostrar probabilidades y sus motivos.
 - [ ] Mostrar resultados de simulaciones de torneos.
 - [ ] Permitir reproducir una predicción histórica.

@@ -1,5 +1,7 @@
 # Tennis Intelligence Lab
 
+**[Abrir el explorador público](https://isardi4.github.io/tennis-intelligence-lab/)** · [Repositorio](https://github.com/isardi4/tennis-intelligence-lab)
+
 **Para seguir el proyecto, empezá por [Estado y checklist por fase](ESTADO_DEL_PROYECTO.md).** Ahí está lo terminado, lo pendiente y el próximo paso, explicado sin necesidad de leer los informes técnicos.
 
 Plataforma de análisis y predicción de tenis ATP. El objetivo es estimar probabilidades de victoria, explicar los factores del modelo y simular torneos usando solo información disponible antes de cada predicción.
@@ -103,6 +105,6 @@ Abrir `http://127.0.0.1:8765/`. No requiere instalar JavaScript ni un backend. E
 
 La página está preparada para publicar desde `docs/`: subir los archivos del proyecto al repositorio elegido, ir a **Settings → Pages → Deploy from a branch**, elegir la rama y carpeta **/docs**, y guardar. [Instrucciones oficiales](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). Los recursos usan rutas relativas y funcionan en la URL de un proyecto. `.nojekyll` conserva el sitio estático.
 
-Repositorio del proyecto: https://github.com/isardi4/tennis-intelligence-lab. Se inicializó Git dentro del proyecto, independiente del directorio padre. URL prevista de la página: https://isardi4.github.io/tennis-intelligence-lab/. Publicación inicial en curso.
+Repositorio del proyecto: https://github.com/isardi4/tennis-intelligence-lab. Se inicializó Git dentro del proyecto, independiente del directorio padre. GitHub Pages configurado desde `main:/docs`, con HTTPS obligatorio. URL del explorador: https://isardi4.github.io/tennis-intelligence-lab/. Cada push a main que actualice docs publica automáticamente los cambios.
 
 Los agregados derivados publicados en el snapshot se ofrecen bajo CC BY-NC-SA 4.0, con atribución a Jeff Sackmann, colaboradores del Match Charting Project y el espejo archivado. Uso no comercial; la página incluye los enlaces de atribución/licencia.

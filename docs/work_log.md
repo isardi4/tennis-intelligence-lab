@@ -223,3 +223,11 @@ Este archivo registra el avance del proyecto. Cada entrada debe indicar la fecha
 - **Realizado:** cuenta isardi4 verificada; Git inicializado en la carpeta del proyecto sin alterar el padre. Repositorio público `isardi4/tennis-intelligence-lab` creado y remoto origin asociado.
 - **Preparación:** 39 pruebas pasan y sintaxis JavaScript comprobada. Publicar solo código/documentación y agregado web; originales/entorno/artefactos permanecen excluidos.
 - **En curso:** commit inicial, push y activación GitHub Pages desde main/docs. Falta comprobar respuesta pública.
+
+
+## 2026-10-07 — 24. Publicación verificada en GitHub Pages
+
+- **Completado:** commit inicial subido a main en https://github.com/isardi4/tennis-intelligence-lab. Pages activado desde main/docs, URL https://isardi4.github.io/tennis-intelligence-lab/, HTTPS obligatorio y homepage del repositorio configurada.
+- **Verificación externa:** GitHub informa build built sin errores. Descargados HTML, JavaScript, CSS y snapshot desde la URL pública; hashes coinciden con archivos locales. Los archivos raw, entorno y artefactos locales no están versionados.
+- **Seguimiento:** README y checklist enlazan página y repositorio; publicación marcada completada. Futuras actualizaciones de docs en main se publican automáticamente.
+- **Estado del producto:** explorador público funcional, sin probabilidades; fase 0 de datos sigue abierta.
