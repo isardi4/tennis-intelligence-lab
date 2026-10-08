@@ -1,0 +1,163 @@
+{
+  "policy": "Disponible por política desde medianoche del día siguiente en la zona del evento. No equivale a un timestamp histórico de publicación.",
+  "cases": [
+    {
+      "id": "ao_final",
+      "season": 2024,
+      "tournament_code": "580",
+      "round": "F",
+      "players": [
+        "Jannik Sinner",
+        "Daniil Medvedev"
+      ],
+      "completed_on": "2024-01-28",
+      "timezone": "Australia/Melbourne",
+      "expected_usable_from_utc": "2024-01-28T13:00:00+00:00",
+      "sources": [
+        "https://www.atptour.com/en/news/medvedev-sinner-australian-open-2024-final"
+      ],
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "rg_final",
+      "season": 2024,
+      "tournament_code": "520",
+      "round": "F",
+      "players": [
+        "Carlos Alcaraz",
+        "Alexander Zverev"
+      ],
+      "completed_on": "2024-06-09",
+      "timezone": "Europe/Paris",
+      "expected_usable_from_utc": "2024-06-09T22:00:00+00:00",
+      "sources": [
+        "https://www.atptour.com/en/news/alcaraz-zverev-roland-garros-2024-final"
+      ],
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "wimbledon_final",
+      "season": 2024,
+      "tournament_code": "540",
+      "round": "F",
+      "players": [
+        "Carlos Alcaraz",
+        "Novak Djokovic"
+      ],
+      "completed_on": "2024-07-14",
+      "timezone": "Europe/London",
+      "expected_usable_from_utc": "2024-07-14T23:00:00+00:00",
+      "sources": [
+        "https://www.atptour.com/en/news/alcaraz-djokovic-wimbledon-2024-final"
+      ],
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "us_open_final",
+      "season": 2024,
+      "tournament_code": "560",
+      "round": "F",
+      "players": [
+        "Jannik Sinner",
+        "Taylor Fritz"
+      ],
+      "completed_on": "2024-09-08",
+      "timezone": "America/New_York",
+      "expected_usable_from_utc": "2024-09-09T04:00:00+00:00",
+      "sources": [
+        "https://www.atptour.com/en/news/sinner-fritz-us-open"
+      ],
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "rain_resumption",
+      "season": 2024,
+      "tournament_code": "520",
+      "round": "R64",
+      "players": [
+        "Hubert Hurkacz",
+        "Brandon Nakashima"
+      ],
+      "completed_on": "2024-05-30",
+      "timezone": "Europe/Paris",
+      "expected_usable_from_utc": "2024-05-30T22:00:00+00:00",
+      "sources": [
+        "https://www.rolandgarros.com/en-us/article/rg2024-day-5-as-it-happens-thursday-30-may",
+        "https://www.atptour.com/en/news/rain-roland-garros-2024-wednesday"
+      ],
+      "checked_on": "2026-10-07",
+      "started_on": "2024-05-29"
+    },
+    {
+      "id": "after_midnight",
+      "season": 2024,
+      "tournament_code": "520",
+      "round": "R32",
+      "players": [
+        "Novak Djokovic",
+        "Lorenzo Musetti"
+      ],
+      "completed_on": "2024-06-02",
+      "timezone": "Europe/Paris",
+      "expected_usable_from_utc": "2024-06-02T22:00:00+00:00",
+      "sources": [
+        "https://www.rolandgarros.com/fr-fr/article/novak-djokovic-victoire-lorenzo-musetti-troisieme-tour-cinq-sets-nuit/"
+      ],
+      "checked_on": "2026-10-07",
+      "scheduled_on": "2024-06-01",
+      "note": "Finalización efectiva el 2 de junio; la sesión estaba programada para el 1. No inferir la hora de comienzo."
+    },
+    {
+      "id": "rg_djokovic_r64",
+      "season": 2024,
+      "tournament_code": "520",
+      "round": "R64",
+      "players": [
+        "Novak Djokovic",
+        "Roberto Carballes Baena"
+      ],
+      "completed_on": "2024-05-30",
+      "timezone": "Europe/Paris",
+      "expected_usable_from_utc": "2024-05-30T22:00:00+00:00",
+      "sources": [
+        "https://www.rolandgarros.com/en-us/article/rg2024-day-5-as-it-happens-thursday-30-may"
+      ],
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "rg_dimitrov_r64",
+      "season": 2024,
+      "tournament_code": "520",
+      "round": "R64",
+      "players": [
+        "Grigor Dimitrov",
+        "Fabian Marozsan"
+      ],
+      "completed_on": "2024-05-30",
+      "timezone": "Europe/Paris",
+      "expected_usable_from_utc": "2024-05-30T22:00:00+00:00",
+      "sources": [
+        "https://www.rolandgarros.com/en-us/article/rg2024-day-5-as-it-happens-thursday-30-may"
+      ],
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "season_boundary",
+      "season": 2025,
+      "tournament_code": "339",
+      "round": "R32",
+      "players": [
+        "Novak Djokovic",
+        "Rinky Hijikata"
+      ],
+      "completed_on": "2024-12-31",
+      "timezone": "Australia/Brisbane",
+      "expected_usable_from_utc": "2024-12-31T14:00:00+00:00",
+      "sources": [
+        "https://www.atptour.com/en/news/djokovic-hijikata-brisbane-2025-tuesday"
+      ],
+      "checked_on": "2026-10-07",
+      "note": "Temporada 2025 aunque se jugó el 31/12/2024. No incorporar al entrenamiento de la primera etapa."
+    }
+  ]
+}

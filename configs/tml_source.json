@@ -1,0 +1,355 @@
+{
+  "source": "tennismylife",
+  "revision": "snapshot-2026-10-07",
+  "catalog_url": "https://stats.tennismylife.org/api/data-files",
+  "files": [
+    {
+      "name": "1968.csv",
+      "url": "https://stats.tennismylife.org/data/1968.csv",
+      "sha256": "772e13b9fd09ab149c7ca888785ce67b5bcf01f1e79fd39328b529f48ba77e99",
+      "bytes": 578555
+    },
+    {
+      "name": "1969.csv",
+      "url": "https://stats.tennismylife.org/data/1969.csv",
+      "sha256": "4815d8d3a0de94aa008ef9c866aeec337a09ce39689a4cfa3d8e3fb6d0340417",
+      "bytes": 561850
+    },
+    {
+      "name": "1970.csv",
+      "url": "https://stats.tennismylife.org/data/1970.csv",
+      "sha256": "8fb361b0d8dc9a20066b1134cb1493a8ee3e2d9998583669447d3cc9dbb2c64d",
+      "bytes": 506669
+    },
+    {
+      "name": "1971.csv",
+      "url": "https://stats.tennismylife.org/data/1971.csv",
+      "sha256": "5801372f451515c663b3718e9bbdb0ee2b04a3323d998afce7419090f6ba4ffd",
+      "bytes": 595351
+    },
+    {
+      "name": "1972.csv",
+      "url": "https://stats.tennismylife.org/data/1972.csv",
+      "sha256": "a01e77e88460eec1b8e1ff2cf139da485baf3e1114dd0672b3cf4f7d9a799662",
+      "bytes": 602546
+    },
+    {
+      "name": "1973.csv",
+      "url": "https://stats.tennismylife.org/data/1973.csv",
+      "sha256": "320a06c473c0e97f3b8481763012c142bf62d27274b62b6899c55db90133b95f",
+      "bytes": 687163
+    },
+    {
+      "name": "1974.csv",
+      "url": "https://stats.tennismylife.org/data/1974.csv",
+      "sha256": "a89168e243359921baf476ea2762881088329e7212cbe109c4203af77c6ff35e",
+      "bytes": 699003
+    },
+    {
+      "name": "1975.csv",
+      "url": "https://stats.tennismylife.org/data/1975.csv",
+      "sha256": "9f2efc460bd86a72134b6f1734e7cacd3ead86d06a4196a607b6a70abd9fad89",
+      "bytes": 692018
+    },
+    {
+      "name": "1976.csv",
+      "url": "https://stats.tennismylife.org/data/1976.csv",
+      "sha256": "7480b8cb5a5dd9358bb2769361d0fd8c1a3e45e2c6329bbac5757851c104814b",
+      "bytes": 662284
+    },
+    {
+      "name": "1977.csv",
+      "url": "https://stats.tennismylife.org/data/1977.csv",
+      "sha256": "5020628aeb527ed7716db046148f66ed686508831ca0422be5278179d7fe7f2d",
+      "bytes": 700895
+    },
+    {
+      "name": "1978.csv",
+      "url": "https://stats.tennismylife.org/data/1978.csv",
+      "sha256": "10def0519664f8399b86bc05f0e58c9a044e57a42313b49256eee02bcde52da7",
+      "bytes": 652236
+    },
+    {
+      "name": "1979.csv",
+      "url": "https://stats.tennismylife.org/data/1979.csv",
+      "sha256": "3dcff60d5489bffb6a7f67dc230b567c27197d9f23aad08ee91d4c9da424e84a",
+      "bytes": 668959
+    },
+    {
+      "name": "1980.csv",
+      "url": "https://stats.tennismylife.org/data/1980.csv",
+      "sha256": "056157b35bd8eceeda59b9c6dac0e95999e255ba10fe15f8e790fa4c122b9879",
+      "bytes": 661402
+    },
+    {
+      "name": "1981.csv",
+      "url": "https://stats.tennismylife.org/data/1981.csv",
+      "sha256": "6cf25eafb33017e87d329ef8972d2f3385ac3ce0214b6913548b9078dcfcc302",
+      "bytes": 659536
+    },
+    {
+      "name": "1982.csv",
+      "url": "https://stats.tennismylife.org/data/1982.csv",
+      "sha256": "9247edb74bdafcd0119009a01441bf1fef324220fc85b7154b3cca07a281bdcf",
+      "bytes": 695025
+    },
+    {
+      "name": "1983.csv",
+      "url": "https://stats.tennismylife.org/data/1983.csv",
+      "sha256": "c90c6be771ffa559a671209ed3d8bf2aba5eee3122363b2a48d91129508aa2ba",
+      "bytes": 592323
+    },
+    {
+      "name": "1984.csv",
+      "url": "https://stats.tennismylife.org/data/1984.csv",
+      "sha256": "9fc57d0f0f434c5da5cc1db4ed0066f1eb971644ed3941dd82c63cef37f948c9",
+      "bytes": 551235
+    },
+    {
+      "name": "1985.csv",
+      "url": "https://stats.tennismylife.org/data/1985.csv",
+      "sha256": "984b3a3d3279de1c289baf79f63b23a597970e3b072d8e33a97da448837a603d",
+      "bytes": 563767
+    },
+    {
+      "name": "1986.csv",
+      "url": "https://stats.tennismylife.org/data/1986.csv",
+      "sha256": "050295adcd206601ec615777590e7da5230575b9e11f36524894a9c1afd2283b",
+      "bytes": 535852
+    },
+    {
+      "name": "1987.csv",
+      "url": "https://stats.tennismylife.org/data/1987.csv",
+      "sha256": "2fff4e26161ae0e6cc3054520cfdd87a365cd6ef387bd151306d17103cc06d89",
+      "bytes": 589994
+    },
+    {
+      "name": "1988.csv",
+      "url": "https://stats.tennismylife.org/data/1988.csv",
+      "sha256": "14ce93237efe4abf311c67527cb16fd6184878633e032065eec7e06b7b750cef",
+      "bytes": 618015
+    },
+    {
+      "name": "1989.csv",
+      "url": "https://stats.tennismylife.org/data/1989.csv",
+      "sha256": "59abd9493fe4841eacbc66b6c51746141799350b0b65a52c11906ad49b472a39",
+      "bytes": 598175
+    },
+    {
+      "name": "1990.csv",
+      "url": "https://stats.tennismylife.org/data/1990.csv",
+      "sha256": "96aeee2ec8261d9e777ffa6ad2a887770e395871c165204a7e830788fa72daa5",
+      "bytes": 636765
+    },
+    {
+      "name": "1991.csv",
+      "url": "https://stats.tennismylife.org/data/1991.csv",
+      "sha256": "7f06d2f00e155da1c4dee1960d10735cc1b8ac636f6b18395f68496aefc589b4",
+      "bytes": 754701
+    },
+    {
+      "name": "1992.csv",
+      "url": "https://stats.tennismylife.org/data/1992.csv",
+      "sha256": "1e6b619c4792f393fc96a5c0642fb46384169fff4aad88eb475e5d541c5769eb",
+      "bytes": 774117
+    },
+    {
+      "name": "1993.csv",
+      "url": "https://stats.tennismylife.org/data/1993.csv",
+      "sha256": "40c5ca5c72ac3500bed7707c8a1de162497c90cbed559294c7380c5834eb478a",
+      "bytes": 791816
+    },
+    {
+      "name": "1994.csv",
+      "url": "https://stats.tennismylife.org/data/1994.csv",
+      "sha256": "3a63f7605e75e4e326f1f49a0845b65c82ce4909a71d91871d284ff200e1d8d5",
+      "bytes": 801516
+    },
+    {
+      "name": "1995.csv",
+      "url": "https://stats.tennismylife.org/data/1995.csv",
+      "sha256": "daf92a2b63b93d139a2a0602df7594e0dd7d2b8d0a71a85c2cd6e843a8454e93",
+      "bytes": 775117
+    },
+    {
+      "name": "1996.csv",
+      "url": "https://stats.tennismylife.org/data/1996.csv",
+      "sha256": "9044208da0d2ca75463b4f1d60e645babd9e922e34a4e9c14d93f567492064aa",
+      "bytes": 768366
+    },
+    {
+      "name": "1997.csv",
+      "url": "https://stats.tennismylife.org/data/1997.csv",
+      "sha256": "2233cb66f61f626fa1c43469658b2e6bfb278936aa432111b39764c28dc09a2d",
+      "bytes": 741054
+    },
+    {
+      "name": "1998.csv",
+      "url": "https://stats.tennismylife.org/data/1998.csv",
+      "sha256": "395fa0d20974f0a7ea2d49ffbd6c69936449b300d03ad177c19b7f2a59138de4",
+      "bytes": 735732
+    },
+    {
+      "name": "1999.csv",
+      "url": "https://stats.tennismylife.org/data/1999.csv",
+      "sha256": "03f7010efdecec795ede2c2f04b8f44a9e783ec48397892cdb444fed49d7b0f3",
+      "bytes": 683715
+    },
+    {
+      "name": "2000.csv",
+      "url": "https://stats.tennismylife.org/data/2000.csv",
+      "sha256": "75d9d51730a462c76fd9e9ddbea69e52f594ab4fcec9eca310e6076312381bbb",
+      "bytes": 694177
+    },
+    {
+      "name": "2001.csv",
+      "url": "https://stats.tennismylife.org/data/2001.csv",
+      "sha256": "34004bf31625c87c0bd70b222446bcd905fe04baa208caae59942de00638727e",
+      "bytes": 682631
+    },
+    {
+      "name": "2002.csv",
+      "url": "https://stats.tennismylife.org/data/2002.csv",
+      "sha256": "1d0ea099fb027fbf5570a623c8db76c0fc40a0e9ae0f51b62e77ff27f710976d",
+      "bytes": 662394
+    },
+    {
+      "name": "2003.csv",
+      "url": "https://stats.tennismylife.org/data/2003.csv",
+      "sha256": "84b3731d9767a0dc83a827d8415479216d319db749659e7506899ff576d992cf",
+      "bytes": 663309
+    },
+    {
+      "name": "2004.csv",
+      "url": "https://stats.tennismylife.org/data/2004.csv",
+      "sha256": "a89091ecefa858e41190eb85e55405440447dbb004f50f675ae8aa2b28f4e21f",
+      "bytes": 675548
+    },
+    {
+      "name": "2005.csv",
+      "url": "https://stats.tennismylife.org/data/2005.csv",
+      "sha256": "0517e2888d97387042285aae428cb8f6d0b22846a61e721fcecc7cb3eb49ff00",
+      "bytes": 672767
+    },
+    {
+      "name": "2006.csv",
+      "url": "https://stats.tennismylife.org/data/2006.csv",
+      "sha256": "acbb393c12f6bd9b3d6e7d71700db9676abbab98b6f937a6603d5cad365e271e",
+      "bytes": 673502
+    },
+    {
+      "name": "2007.csv",
+      "url": "https://stats.tennismylife.org/data/2007.csv",
+      "sha256": "f557cc49ba7bb436641cbdc2d7d2fa05afa6ce45f83c28a4452b1189f554827b",
+      "bytes": 657281
+    },
+    {
+      "name": "2008.csv",
+      "url": "https://stats.tennismylife.org/data/2008.csv",
+      "sha256": "51b2f23e0a3a620b4e080c46469076f5eff37fe51eff2cd7a127f68d3fc597d2",
+      "bytes": 643627
+    },
+    {
+      "name": "2009.csv",
+      "url": "https://stats.tennismylife.org/data/2009.csv",
+      "sha256": "0311f6bfcdb6cbeed8add108262d131171493004be9f88b127320f9cdbcd541b",
+      "bytes": 638702
+    },
+    {
+      "name": "2010.csv",
+      "url": "https://stats.tennismylife.org/data/2010.csv",
+      "sha256": "27fe66a5abbeadb451113b8119646494651a6d954892856173b49f697953b221",
+      "bytes": 625772
+    },
+    {
+      "name": "2011.csv",
+      "url": "https://stats.tennismylife.org/data/2011.csv",
+      "sha256": "ec816cad779d0d31856c39f3c25f61b4c5c4df10c7245611c358e0c8de4f9236",
+      "bytes": 623639
+    },
+    {
+      "name": "2012.csv",
+      "url": "https://stats.tennismylife.org/data/2012.csv",
+      "sha256": "7f299dc1c46e96bc81292c0dd8eed46ef1c37ff1a0dcef4e8b35866ffa310683",
+      "bytes": 619870
+    },
+    {
+      "name": "2013.csv",
+      "url": "https://stats.tennismylife.org/data/2013.csv",
+      "sha256": "3011ef277a4d94f5e722193dda4d71d5a77bf2d557a33233ea2329240ffa19bb",
+      "bytes": 608175
+    },
+    {
+      "name": "2014.csv",
+      "url": "https://stats.tennismylife.org/data/2014.csv",
+      "sha256": "1e172cd272815584ab1b6e7e1fa9bd0f6e87618047da65ee8fcd36676dd2f492",
+      "bytes": 600128
+    },
+    {
+      "name": "2015.csv",
+      "url": "https://stats.tennismylife.org/data/2015.csv",
+      "sha256": "0d156d21a70dd620e1a014aa589e034ff24a7478d24a5cdea5bdc984189c26e7",
+      "bytes": 609461
+    },
+    {
+      "name": "2016.csv",
+      "url": "https://stats.tennismylife.org/data/2016.csv",
+      "sha256": "29e08902f11fd5400669e00c192f94329f7807beb43de41f2729c041ed71f617",
+      "bytes": 630407
+    },
+    {
+      "name": "2017.csv",
+      "url": "https://stats.tennismylife.org/data/2017.csv",
+      "sha256": "286978b2f874734ad89b4d60dcbb81b5e94ee6398be80925a3f23915894585d2",
+      "bytes": 622391
+    },
+    {
+      "name": "2018.csv",
+      "url": "https://stats.tennismylife.org/data/2018.csv",
+      "sha256": "97a22cbf3e967ec7ac1079a20c4a51061aff2f572ffc15e85cda12b62891efba",
+      "bytes": 621009
+    },
+    {
+      "name": "2019.csv",
+      "url": "https://stats.tennismylife.org/data/2019.csv",
+      "sha256": "9af50808abcb55e644de1d3f674077f18c8dea590ce933ba0a9ebdc029c1ea5b",
+      "bytes": 590619
+    },
+    {
+      "name": "2020.csv",
+      "url": "https://stats.tennismylife.org/data/2020.csv",
+      "sha256": "959508f99f80b3f7f0c0f0029160ffa58f27813e19a63b1d0636a4f04a8ef125",
+      "bytes": 310280
+    },
+    {
+      "name": "2021.csv",
+      "url": "https://stats.tennismylife.org/data/2021.csv",
+      "sha256": "56f135106006a75ab8210ec654c3db598e177058599cb90477aac44acf1152e4",
+      "bytes": 579480
+    },
+    {
+      "name": "2022.csv",
+      "url": "https://stats.tennismylife.org/data/2022.csv",
+      "sha256": "bd5f95b95815c8c807afb204a5e89d21ed40520c2e9de1f0c73f376819437eb1",
+      "bytes": 615681
+    },
+    {
+      "name": "2023.csv",
+      "url": "https://stats.tennismylife.org/data/2023.csv",
+      "sha256": "df615751795c00b042f3b61159f6dd9e12971065090a330c586fb524e207d574",
+      "bytes": 633588
+    },
+    {
+      "name": "2024.csv",
+      "url": "https://stats.tennismylife.org/data/2024.csv",
+      "sha256": "d1127519d7bda61a9e10c4cadbf6dc4f7e35a74aec1dc1d7e4b480852981efb8",
+      "bytes": 653442
+    },
+    {
+      "name": "2025.csv",
+      "url": "https://stats.tennismylife.org/data/2025.csv",
+      "sha256": "f10ff8ce35c705bcfe3c39abad89fbd502fa23050e703dc8e1ccb65aecc4ea88",
+      "bytes": 620171
+    }
+  ]
+}

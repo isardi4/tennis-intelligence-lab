@@ -1,0 +1,54 @@
+[
+  {
+    "season": 2024,
+    "tournament_code": "580",
+    "round": "F",
+    "winner_name": "Jannik Sinner",
+    "loser_name": "Daniil Medvedev",
+    "score": "3-6 3-6 6-4 6-4 6-3",
+    "source_url": "https://www.atptour.com/en/news/medvedev-sinner-australian-open-2024-final",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "season": 2024,
+    "tournament_code": "520",
+    "round": "F",
+    "winner_name": "Carlos Alcaraz",
+    "loser_name": "Alexander Zverev",
+    "score": "6-3 2-6 5-7 6-1 6-2",
+    "source_url": "https://www.atptour.com/en/news/alcaraz-zverev-roland-garros-2024-final",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "season": 2024,
+    "tournament_code": "540",
+    "round": "F",
+    "winner_name": "Carlos Alcaraz",
+    "loser_name": "Novak Djokovic",
+    "score": "6-2 6-2 7-6(4)",
+    "minutes": 147,
+    "source_url": "https://www.atptour.com/es/news/wimbledon-2024-domingo-final-alcaraz-djokovic",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "season": 2024,
+    "tournament_code": "560",
+    "round": "F",
+    "winner_name": "Jannik Sinner",
+    "loser_name": "Taylor Fritz",
+    "score": "6-3 6-4 7-5",
+    "source_url": "https://www.atptour.com/en/news/sinner-fritz-us-open",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "season": 2024,
+    "tournament_code": "96",
+    "round": "R32",
+    "winner_name": "Corentin Moutet",
+    "loser_name": "Jan Lennard Struff",
+    "score": "W/O",
+    "source_url": "https://www.atptour.com/en/news/zverev-machac-paris-olympics-tuesday-2024",
+    "corroborating_url": "https://www.itftennis.com/en/news-and-media/articles/tommy-paul-ends-the-hopes-of-moutet-and-france-at-paris-2024/",
+    "checked_on": "2026-10-07"
+  }
+]

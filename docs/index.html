@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Explorá perfiles estadísticos y similitudes entre jugadores de tenis. Piloto histórico 2022–2024.">
+<title>Tennis Intelligence Lab · Explorador</title>
+<link rel="stylesheet" href="lab.css">
+</head>
+<body>
+<header><a class="brand" href="./index.html"><span class="ball">◉</span> TENNIS INTELLIGENCE LAB</a><span class="tag">PILOTO EXPLORATORIO</span></header>
+<main>
+<section class="hero"><div><p class="eyebrow">DEL DATO AL ESTILO</p><h1>Encontrá patrones.<br><em>Explorá jugadores.</em></h1><p class="intro">Compará características, descubrí vecinos estadísticos y revisá cuánta evidencia hay detrás de cada perfil.</p></div><div class="hero-note"><span class="live-dot"></span> Snapshot histórico<strong>2022 — 2024</strong><small>Top 350 del ranking del 30/12/2024</small></div></section>
+<div class="notice">Estamos explorando similitudes. Todavía no hay probabilidades de victoria ni ventajas tácticas comprobadas.</div>
+<section class="stats" aria-label="Cobertura"><div><strong>350</strong><span>jugadores en el piloto</span></div><div><strong id="basic-count">—</strong><span>con métricas básicas</span></div><div><strong id="style-count">—</strong><span>con alguna métrica de golpes</span></div><div><strong id="eligible-count">—</strong><span>comparables en golpes · ≥10 partidos</span></div></section>
+<section class="workspace">
+<aside class="panel roster"><h2>Jugadores</h2><label for="search">Buscar por nombre</label><input id="search" type="search" placeholder="Nombre del jugador…" autocomplete="off"><label class="check"><input id="supported" type="checkbox"> Solo comparables en esta vista</label><p id="result-count" class="muted"></p><div id="player-list" class="player-list"></div></aside>
+<div class="analysis">
+<section class="panel controls"><div><label for="kind">Características</label><select id="kind"><option value="basic">Saque y devolución</option><option value="style">Golpes detallados</option></select></div><div><label for="level">Circuito</label><select id="level"><option value="ATP">ATP</option><option value="Challenger_main">Challenger · cuadro principal</option><option value="Challenger_qualifying">Challenger · clasificación</option></select></div><div><label for="surface">Superficie</label><select id="surface"><option value="All">Todas</option><option value="Hard">Dura</option><option value="Clay">Arcilla</option><option value="Grass">Césped</option></select></div><p id="view-note" class="muted"></p></section>
+<section class="panel compare"><div class="section-title"><h2>Comparar perfiles</h2><span class="tag">MISMO PERÍODO</span></div><div class="selectors"><div><label for="player-a">Jugador A</label><select id="player-a"></select></div><div><label for="player-b">Jugador B</label><select id="player-b"></select></div></div><p id="evidence" class="muted"></p><div id="metrics" aria-live="polite"></div><p class="footnote">Cada porcentaje reúne las oportunidades observadas, con su numerador, denominador y partidos. Un valor mayor no siempre es mejor. “Sin datos” no significa cero.</p></section>
+<section class="panel"><div class="section-title"><h2>Vecinos estadísticos de <span id="neighbor-name"></span></h2><span class="tag">TOP 5</span></div><p class="muted">Mínimo de 10 partidos en cada métrica seleccionada. Distancia menor = más cercanía en esta vista; no es un porcentaje de similitud.</p><div id="neighbors" aria-live="polite"></div></section>
+</div></section>
+<section class="panel method" id="status"><h2>Qué estás viendo</h2><p>Los golpes forman un perfil único por jugador, reuniendo superficies. Saque y devolución conservan circuito y superficie. Las similitudes todavía mezclan tendencias, rendimiento y oposición; las identidades de golpes son correspondencias candidatas por nombre.</p><p>En el diagnóstico global de golpes, <strong>28 de 44 jugadores</strong> comparables en las tres pruebas conservaron al menos tres de cinco vecinos al retirar cada año. Es un criterio exploratorio, no una garantía de confianza.</p><p>Los jugadores del top 500 tienen datos básicos; esta interfaz muestra el piloto de 350. Para evaluar partidos históricos habrá que resolver fechas, disponibilidad y nivel de los rivales.</p></section>
+<footer><span>Datos: <a href="https://github.com/JeffSackmann/tennis_atp">Jeff Sackmann</a>, archivo <a href="https://github.com/Aneeshers/tennis-sackmann-archive">Aneeshers</a> y colaboradores del <a href="https://github.com/JeffSackmann/tennis_MatchChartingProject">Match Charting Project</a>. Agregados derivados bajo <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> · uso no comercial.</span><a href="#status">Estado del piloto</a></footer>
+</main><script src="lab-snapshot.js"></script><script src="lab.js"></script>
+</body></html>

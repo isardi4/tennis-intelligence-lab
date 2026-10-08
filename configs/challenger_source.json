@@ -1,0 +1,24 @@
+{
+  "source": "sackmann_challenger_qualifying_archive",
+  "revision": "83733587353df8a41f2fd4f516147d5aa83f5a8d",
+  "files": [
+    {
+      "name": "atp_matches_qual_chall_2022.csv",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/83733587353df8a41f2fd4f516147d5aa83f5a8d/atp/atp_matches_qual_chall_2022.csv",
+      "git_blob_sha1": "a640361f8b267d4e1d07b8a629166ab93b2f318c",
+      "bytes": 2071897
+    },
+    {
+      "name": "atp_matches_qual_chall_2023.csv",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/83733587353df8a41f2fd4f516147d5aa83f5a8d/atp/atp_matches_qual_chall_2023.csv",
+      "git_blob_sha1": "f500de7d72f61fcd667dc427c1b17b6e7e9808ac",
+      "bytes": 2206998
+    },
+    {
+      "name": "atp_matches_qual_chall_2024.csv",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/83733587353df8a41f2fd4f516147d5aa83f5a8d/atp/atp_matches_qual_chall_2024.csv",
+      "git_blob_sha1": "fd2d7e0e25cc56d7a42b3d74f61f270eb0de2057",
+      "bytes": 2316734
+    }
+  ]
+}

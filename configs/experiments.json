@@ -1,0 +1,15 @@
+{
+  "stage_1_2025": {
+    "training_cutoff": "2024-12-31",
+    "evaluation_year": 2025,
+    "validation_years": [2022, 2023, 2024],
+    "information_modes": ["historical_online", "frozen_information"]
+  },
+  "stage_2_2026": {
+    "training_cutoff": "2025-12-31",
+    "evaluation_year": 2026,
+    "validation_years": [2023, 2024, 2025],
+    "information_modes": ["historical_online", "frozen_information"],
+    "requires": "stage_1_2025_reviewed"
+  }
+}
