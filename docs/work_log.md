@@ -240,3 +240,12 @@ Este archivo registra el avance del proyecto. Cada entrada debe indicar la fecha
 - **Verificación:** inspección visual en Chrome y comprobaciones de siete/seis categorías, altura exacta según tasa, evidencia cerrada, tooltip de muestra, gráfico inferior a 300 px, cambio de vecino y datos faltantes. 39 pruebas Python pasan y sintaxis JavaScript válida. Se retiró el arnés temporal.
 - **Datos:** snapshot y métricas permanecen iguales. No cambia ninguna predicción o modelo.
 - **Publicación:** commit a14d7ce subido; GitHub Pages informa built sin errores. HTML, JavaScript y CSS descargados desde URL pública y hashes comprobados contra la versión local.
+
+
+## 2026-10-07 — 26. Vecinos explicados por áreas y paleta ampliada
+
+- **Pedido:** reemplazar distancia poco intuitiva por indicadores de similitud y áreas destacadas; variar la paleta.
+- **Realizado:** tarjetas con índice descriptivo de afinidad 0–100 y tres áreas cercanas, tasas reales de ambos jugadores, diferencia en puntos porcentuales, evidencia y principal diferencia desplegable. Fórmula/interpretación explícita; sin cambiar vecinos ni métricas originales.
+- **Diseño:** base azul, acentos coral/celeste/lavanda/verde/dorado y áreas coloreadas por saque/resto/derecha/revés/red. Colores de jugadores consistentes entre gráfico y tarjetas.
+- **Verificación:** 39 pruebas Python pasan, sintaxis JS válida; Chrome verifica fórmula global/por área, tasas reales, tarjetas, comparación, golpes globales, faltantes y adaptación sin desborde a 390 px. Inspección visual de la página completa. Arnés temporal retirado.
+- **Publicación:** mejora preparada para push a main y verificación de recursos públicos tras Pages. Fase de datos sin cambios; no hay predicciones nuevas.

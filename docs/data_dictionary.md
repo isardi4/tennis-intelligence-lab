@@ -153,3 +153,8 @@ Se exporta también `profile_review_queue.json` con los 350 jugadores y un estad
 ## Revisión acordada — perfil de golpes global
 
 El perfil MCP reúne todas las superficies por jugador y período. Los constructores de perfil, similitudes y estabilidad generan solo la vista de golpes `All`; las vistas básicas ATP/Challenger continúan separadas por superficie. Se mantiene el campo `surface=All` para compatibilidad del esquema, sin perfiles de golpes separados Hard/Clay/Grass. La superficie del partido original se preserva y podrá actuar como contexto/interacción del modelo. Esta decisión reemplaza las vistas de golpes por superficie descritas en avances anteriores. No se infiere que el estilo sea invariable entre superficies; la mezcla observada puede sesgar el perfil agregado.
+
+
+## Afinidad descriptiva en la interfaz
+
+La web transforma la distancia d en índice `100/(1+d)`, mostrado con signo % para facilitar lectura en una escala 0–100. No es proporción medida de golpes coincidentes ni probabilidad ni confianza. El orden de vecinos permanece idéntico porque la transformación es monótona. Cada una de las tres áreas más cercanas usa `d=abs(tasaA-tasaB)/desviación` de su vista; debajo se muestran ambas tasas observadas y la diferencia en puntos porcentuales. Los métodos y contadores de base permanecen iguales. Las afinidades se interpretan dentro de cada vista, no entre circuitos ni familias de características. La fórmula y límites están en un desplegable accesible.
