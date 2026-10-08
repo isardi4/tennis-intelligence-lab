@@ -239,4 +239,4 @@ Este archivo registra el avance del proyecto. Cada entrada debe indicar la fecha
 - **Realizado:** gráfico de columnas agrupadas, dos colores con leyenda, porcentajes visibles y escala común 0–100 %. Nombres cortos con definición completa accesible, evidencia en desplegable/tooltip y desplazamiento horizontal del gráfico en móvil. Ausencia explícita S/D sin inventar valores.
 - **Verificación:** inspección visual en Chrome y comprobaciones de siete/seis categorías, altura exacta según tasa, evidencia cerrada, tooltip de muestra, gráfico inferior a 300 px, cambio de vecino y datos faltantes. 39 pruebas Python pasan y sintaxis JavaScript válida. Se retiró el arnés temporal.
 - **Datos:** snapshot y métricas permanecen iguales. No cambia ninguna predicción o modelo.
-- **Publicación:** actualización preparada para push a main, que publica automáticamente mediante Pages; comprobar recursos públicos tras la construcción.
+- **Publicación:** commit a14d7ce subido; GitHub Pages informa built sin errores. HTML, JavaScript y CSS descargados desde URL pública y hashes comprobados contra la versión local.
