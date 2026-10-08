@@ -256,4 +256,4 @@ Este archivo registra el avance del proyecto. Cada entrada debe indicar la fecha
 - **Realizado:** botones Comparación/Vecinos en un contenedor; una vista visible por vez, selección conservada y botón Comparar de cada vecino abre la comparación. Navegación por teclado y estados accesibles.
 - **Diseño:** paleta verde original recuperada, contraste celeste y colores constantes por jugador. Ranking ATP del 30/12/2024 visible también en móvil; estadísticas 2022–2024 diferenciadas.
 - **Verificación:** 39 pruebas Python, sintaxis JS, inspección visual y Chrome: pestañas, teclado, selección, comparación desde vecino, golpes globales y móvil de 390 px sin desborde. Arnés temporal retirado.
-- **Publicación:** preparada para GitHub Pages; pendiente verificar el build público. Datos y fase 0 sin cambios.
+- **Publicación:** commit f1ee2c5 publicado; Pages built sin errores y HTML/JS/CSS públicos coinciden con los archivos locales. Datos y fase 0 sin cambios.
